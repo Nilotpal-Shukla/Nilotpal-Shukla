@@ -22,6 +22,11 @@ Data Analyst skilled in transforming raw data into actionable insights through d
 - Pandas
 - NumPy Matplotlib
 
+## Contact me
+
+- linkedin- linkedin.com/in/nilotpal-shukla-423181186
+- email- shuklanilotpal8@gmail.com
+
 <!--
 **Nilotpal-Shukla/Nilotpal-Shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
