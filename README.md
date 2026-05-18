@@ -10,15 +10,15 @@ Previously worked in software testing, which strengthened my understanding of da
 
 ## 🛠 Skills
 
-Python
-SQL
-Power BI
-Tableau
-Excel
-Statistics
-Machine Learning
-Pandas
-NumPy Matplotlib
+-Python
+-SQL
+-Power BI
+-Tableau
+-Excel
+-Statistics
+-Machine Learning
+-Pandas
+-NumPy Matplotlib
 
 <!--
 **Nilotpal-Shukla/Nilotpal-Shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
