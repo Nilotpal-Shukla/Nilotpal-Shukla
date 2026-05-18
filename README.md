@@ -4,7 +4,6 @@
 
 Data Analyst skilled in transforming raw data into actionable insights through data cleaning, exploratory data analysis, and interactive dashboards. Experienced in using Python, SQL, Excel, Power BI, and Tableau to analyze datasets and support data-driven decision making.
 
-Previously worked in software testing, which strengthened my understanding of data quality, debugging, and analytical problem solving.
 
 🚀 Currently building real-world analytics projects and seeking opportunities as a Data Analyst.
 
@@ -14,14 +13,14 @@ Previously worked in software testing, which strengthened my understanding of da
 
 - SQL
 
--Power BI
+- Power BI
 
--Tableau
--Excel
--Statistics
--Machine Learning
--Pandas
--NumPy Matplotlib
+- Excel
+  
+- Statistics
+- Machine Learning
+- Pandas
+- NumPy Matplotlib
 
 <!--
 **Nilotpal-Shukla/Nilotpal-Shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
