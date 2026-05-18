@@ -1,3 +1,8 @@
+<img width="1600" height="800" alt="WhatsApp Image 2026-05-18 at 2 33 56 PM" src="https://github.com/user-attachments/assets/d8ce391f-addd-4c4f-91ce-402b261420f3" />
+
+
+
+
 ## Hi there 👋, myself Nilotpal
 
 📊 Data Analyst | Python | SQL | Power BI | Excel | Machine Learning
