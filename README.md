@@ -10,9 +10,12 @@ Previously worked in software testing, which strengthened my understanding of da
 
 ## 🛠 Skills
 
--Python
--SQL
+- Python
+
+- SQL
+
 -Power BI
+
 -Tableau
 -Excel
 -Statistics
